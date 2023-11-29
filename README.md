@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h6>Don't speak Portuguese? <a href="https://github.com/dtonavitor/dtonavitor/blob/main/README-en.md">Click here</a> to view this page in English</h6>
+<h6>Don't speak Portuguese? <a href="https://github.com/rapha-lisboa/rapha-lisboa/blob/main/README-en.md">Click here</a> to view this page in English</h6>
 
 ### :man_technologist: Sobre mim: 
 Apaixonado por matemática e computação, busquei como propósito para a minha vida resolver problemas usando meu raciocínio lógico e muita tecnologia.
