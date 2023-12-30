@@ -1,23 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
   <h1>
-    Hello, world!
+    Olá, mundo!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-<h6>Não fala inglês? <a href="https://github.com/rapha-lisboa/rapha-lisboa/blob/main/README.md">Clique aqui</a> para ver essa página em português </h6>
+<h6>Don't speak Portuguese? <a href="https://github.com/rapha-lisboa/rapha-lisboa/blob/main/README-en.md">Click here</a> to view this page in English</h6>
 
-### :man_technologist: About me: 
-Passionate about mathematics and computing, I have made it my life's purpose to solve problems using my logical thinking and a lot of technology.
-- 🧠: "Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity" - Alan Turing
+### :man_technologist: Sobre mim: 
+Apaixonado por matemática e computação, busquei como propósito para a minha vida resolver problemas usando meu raciocínio lógico e muita tecnologia.
+- 🧠: "Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer" - Alan Turing
 - 📫: Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-raphalisboa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-lisboa/)
   
 ---
-### :hammer_and_wrench: Programming languages and Tools :
+### :hammer_and_wrench: Linguagens e Ferramentas :
 <div>
 <div id="data-science">
-    <h4> Data Science </h4>
+    <h4> Ciência de Dados </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@ Passionate about mathematics and computing, I have made it my life's purpose to 
 </div>
 
 <div id="web-development">
-    <h4> Web Development and Cloud Computing </h4>
+    <h4> Desenvolvimento Web </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ Passionate about mathematics and computing, I have made it my life's purpose to 
 </div>
 
 <div>
-    <h4> Other Technologies </h4>
+    <h4> Outras tecnologias </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot"  alt="Godot" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -60,7 +60,7 @@ Passionate about mathematics and computing, I have made it my life's purpose to 
 
 ---
 
-### :fire: My Status :
+### :fire: Meus Status :
 <div id="footer" align="center">
   <a href="https://github.com/rapha-lisboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rapha-lisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
