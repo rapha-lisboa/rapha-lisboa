@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h6>Não fala inglês? <a href="https://github.com/rapha-lisboa/rapha-lisboa/blob/main/README.md">Clique aqui</a> para ver essa página em português </h6>
+<h6>Não fala inglês? <a href="https://github.com/rapha-lisboa/rapha-lisboa/blob/main/README-ptbr.md">Clique aqui</a> para ver essa página em português </h6>
 
 ### :man_technologist: About me: 
 Passionate about mathematics and computing, I have made it my life's purpose to solve problems using my logical thinking and a lot of technology.
